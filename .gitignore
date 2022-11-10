@@ -2,3 +2,5 @@
 .venv/
 
 data/Originals/
+
+.Rproj*
