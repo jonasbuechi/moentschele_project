@@ -5,3 +5,4 @@ data/Originals/
 
 .Rproj*
 moentschele_project.Rproj
+.DS_Store
